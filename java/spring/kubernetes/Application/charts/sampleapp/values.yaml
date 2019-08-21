@@ -4,7 +4,7 @@
 fullnameOverride: sampleapp
 replicaCount: 2
 image:
-  repository: azurehadracr.azurecr.io:krkandavel/devops-project-samples
+  repository: kazurehadracr.azurecr.io/devops-project-samples
   tag: latest
 
 imagePullSecrets: []
